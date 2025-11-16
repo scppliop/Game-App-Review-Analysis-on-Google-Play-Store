@@ -1,11 +1,14 @@
 🎮 Game App Review Analysis on Google Play Store
 
+
 Lords Mobile: Kingdom Wars – Korean User Review Analysis
+
 
 📘 Overview
 
 This project analyzes Google Play Store reviews of Lords Mobile: Kingdom Wars written by Korean users to uncover insights into player sentiment, engagement patterns, and areas for improvement.
 The analysis also explores differences in user feedback before and after the 2025 World Championship Event held in Incheon.
+
 
 🧭 Objectives
 
@@ -17,6 +20,7 @@ Compare feedback before and after the global event
 
 Highlight recurring user concerns and satisfaction points
 
+
 🛠️ Tools and Technologies
 
 Python (Selenium, BeautifulSoup, KoNLPy, pandas, matplotlib, wordcloud)
@@ -27,6 +31,7 @@ Data Period: Jan 1, 2024 – Sep 23, 2025
 
 Dataset Size: 3,941 Google Play Store reviews
 
+
 📊 Analysis Methods
 
 Text Mining: Tokenization & frequency analysis using KoNLPy (Okt)
@@ -36,6 +41,7 @@ Sentiment Analysis: Categorized by rating (positive, neutral, negative)
 Keyword Association: Frequency & contextual importance
 
 User Feedback Study: Comparison across time and “helpful_count” metrics
+
 
 💡 Key Findings
 
@@ -49,6 +55,7 @@ User Feedback Study: Comparison across time and “helpful_count” metrics
 
 🕹️ Event-related reviews (Aug 29–31, 2025) were mostly positive, indicating limited correlation between the in-game event and Play Store review trends.
 
+
 🧩 Insights
 
 User satisfaction is strongly linked to gameplay accessibility and fair monetization.
@@ -56,6 +63,7 @@ User satisfaction is strongly linked to gameplay accessibility and fair monetiza
 Players value engaging content but express frustration with pay-to-win systems.
 
 There is potential to improve resource management, bug resolution, and user interface convenience.
+
 
 ⚙️ Limitations
 
